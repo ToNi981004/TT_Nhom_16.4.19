@@ -1,0 +1,27 @@
+C:\Users\Trieu Van Linh\source\repos\QL_HSGVTHPT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Trieu Van Linh\source\repos\QL_HSGVTHPT\BLL\bin\Debug\BLL.dll
+C:\Users\Trieu Van Linh\source\repos\QL_HSGVTHPT\BLL\bin\Debug\BLL.pdb
+C:\Users\Trieu Van Linh\source\repos\QL_HSGVTHPT\BLL\bin\Debug\DAL.dll
+C:\Users\Trieu Van Linh\source\repos\QL_HSGVTHPT\BLL\bin\Debug\DAL.pdb
+C:\Users\Trieu Van Linh\source\repos\QL_HSGVTHPT\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Trieu Van Linh\source\repos\QL_HSGVTHPT\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Trieu Van Linh\source\repos\QL_HSGVTHPT\BLL\obj\Debug\BLL.dll
+C:\Users\Trieu Van Linh\source\repos\QL_HSGVTHPT\BLL\obj\Debug\BLL.pdb
+C:\Users\Trieu Van Linh\Documents\Thực Tập Nhóm\Th-c-T-p-Nh-m-master\Th-c-T-p-Nh-m-master\BLL\bin\Debug\BLL.dll
+C:\Users\Trieu Van Linh\Documents\Thực Tập Nhóm\Th-c-T-p-Nh-m-master\Th-c-T-p-Nh-m-master\BLL\bin\Debug\BLL.pdb
+C:\Users\Trieu Van Linh\Documents\Thực Tập Nhóm\Th-c-T-p-Nh-m-master\Th-c-T-p-Nh-m-master\BLL\bin\Debug\DAL.dll
+C:\Users\Trieu Van Linh\Documents\Thực Tập Nhóm\Th-c-T-p-Nh-m-master\Th-c-T-p-Nh-m-master\BLL\bin\Debug\DAL.pdb
+C:\Users\Trieu Van Linh\Documents\Thực Tập Nhóm\Th-c-T-p-Nh-m-master\Th-c-T-p-Nh-m-master\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Trieu Van Linh\Documents\Thực Tập Nhóm\Th-c-T-p-Nh-m-master\Th-c-T-p-Nh-m-master\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Trieu Van Linh\Documents\Thực Tập Nhóm\Th-c-T-p-Nh-m-master\Th-c-T-p-Nh-m-master\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Trieu Van Linh\Documents\Thực Tập Nhóm\Th-c-T-p-Nh-m-master\Th-c-T-p-Nh-m-master\BLL\obj\Debug\BLL.dll
+C:\Users\Trieu Van Linh\Documents\Thực Tập Nhóm\Th-c-T-p-Nh-m-master\Th-c-T-p-Nh-m-master\BLL\obj\Debug\BLL.pdb
+E:\Thực Tập Nhóm\TT_Nhom_16.4.19\BLL\bin\Debug\BLL.dll
+E:\Thực Tập Nhóm\TT_Nhom_16.4.19\BLL\bin\Debug\BLL.pdb
+E:\Thực Tập Nhóm\TT_Nhom_16.4.19\BLL\bin\Debug\DAL.dll
+E:\Thực Tập Nhóm\TT_Nhom_16.4.19\BLL\bin\Debug\DAL.pdb
+E:\Thực Tập Nhóm\TT_Nhom_16.4.19\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\Thực Tập Nhóm\TT_Nhom_16.4.19\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Thực Tập Nhóm\TT_Nhom_16.4.19\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Thực Tập Nhóm\TT_Nhom_16.4.19\BLL\obj\Debug\BLL.dll
+E:\Thực Tập Nhóm\TT_Nhom_16.4.19\BLL\obj\Debug\BLL.pdb
